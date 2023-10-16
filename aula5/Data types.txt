@@ -1,0 +1,11 @@
+Data types
+*number*
+- Infinity
+- NaN
+*string*
+*boolean*
+*null*
+*undefined*
+*object*
+- Array
+*function*
